@@ -14,9 +14,7 @@ Dive into Apple’s historical stock data and uncover insights about its perform
 ---
 ## 💡 Insights
 
-- Apple shows moderate volatility, spiking during product launches and market events.
-- There are **194 major spikes**, reflecting key market reactions.
-- Even top-performing stocks experience drawdowns — reminding investors that risk is real.
+The visualizations provide a comprehensive overview of Apple’s stock behavior over time. The stock price plot illustrates the general trend and daily fluctuations in Apple’s market value. The volatility plot quantifies the magnitude of daily price movements, highlighting periods of market turbulence. The big spikes plot identifies days with unusually large returns (greater than ±2%), signaling significant market reactions or events, with 194 such occurrences detected. Finally, the drawdown plot measures peak-to-trough declines, revealing periods of substantial losses and risk exposure. Collectively, these analyses offer insights into price trends, risk, and market responsiveness of Apple stock.
 
 ---
 ## Author
